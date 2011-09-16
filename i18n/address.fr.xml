@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="address">
+        <source>Address</source>
+        <target>Adresse</target>
+      </trans-unit>
+      <trans-unit id="addresses">
+        <source>Addresses</source>
+        <target>Adresses</target>
+      </trans-unit>
+      <trans-unit id="address_line1">
+        <source>Address line 1</source>
+        <target>Adresse ligne 1</target>
+      </trans-unit>
+      <trans-unit id="address_line2">
+        <source>Address line 2</source>
+        <target>Adresse ligne 2</target>
+      </trans-unit>
+      <trans-unit id="city">
+        <source>City</source>
+        <target>Ville</target>
+      </trans-unit>
+      <trans-unit id="zip">
+        <source>Postal code</source>
+        <target>Code postal</target>
+      </trans-unit>
+      <trans-unit id="Country">
+        <source>Country</source>
+        <target>Pays</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
